@@ -8,10 +8,12 @@ Sejam bem-vindos! Somos da equipe que desenvolveu a contribuição para o Anki e
 
 Contribuir para projetos open source é como escalar uma montanha: exige esforço, persistência e às vezes caminhamos por trilhas inesperadas. Cada linha de código, cada documentação revisada, cada issue resolvida representa horas de dedicação que muitas vezes passam despercebidas. Apesar das tarefas de contribuição serem, por vezes, trabalhosas, ajudar em um projeto open source é reconfortante e agrega muito ao seu portfólio.
 
-"O cansaço do hoje se transforma no orgulho do amanhã."
+**"O cansaço do hoje se transforma no orgulho do amanhã."**
 
 Nossa equipe começou com quatro pessoas. Aos poucos, vimos colegas sucumbirem às demandas da vida acadêmica e pessoal. Quando chegamos à reta final, éramos apenas duas sobreviventes. Mas o que poderia ser visto como fracasso transformou-se em nossa maior lição:
-**Comunicação Transparente é seu Superpoder**
+
+**"Comunicação Transparente é seu Superpoder"**
+
 Descobrimos que problemas sempre surgem:
 - Prazos que se tornam irrealistas
 - Complexidades técnicas subestimadas
@@ -37,4 +39,4 @@ Em caso de dúvidas, acessem os canais oficiais do Anki ou entrem em contato con
 
 ---
 ## Assinado por:
-Nathália Fróz & Hevellyn Barros
+Nathália Fróz & Hevellyn Barros.
