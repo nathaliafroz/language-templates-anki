@@ -1,4 +1,4 @@
-# Mapa do Futuro para o Projeto Laguage Templates for Anki
+# Mapa do Futuro para o Projeto Language Templates for Anki
 ## Visão do Projeto
 Queremos transformar este projeto de templates de cards para Anki na tematica apredizagem de idomas em uma biblioteca acessível de modelos estilizados que facilitem o aprendizado ativo de idiomas. Nosso objetivo é criar cards visualmente atraentes, altamente funcionais e responsivos que suportem múltiplos tipos de mídia (texto, áudio, imagens, dicas) e que sejam fáceis de personalizar por qualquer usuário, desde estudantes iniciantes até usuários avançados.
 
