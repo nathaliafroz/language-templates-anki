@@ -9,9 +9,9 @@ Queremos transformar este projeto de templates de cards para Anki na tematica ap
 - Implementar detecção automática das preferências do sistema do usuário
 - Garantir que todas as cores do card se adaptem dinamicamente ao tema selecionado
 
-### 2. Desenvolver campo de anotações (Desafio Técnico)
-- campo para fazer anotações sobre alguma informação a mais sobre o que esta sendo estudado
-- sera mostrado apenas após a o usuario responder o card
+### 2. Desenvolver campo de anotações
+- Campo para fazer anotações sobre alguma informação a mais sobre o que esta sendo estudado
+- Sera mostrado apenas após o usuário responder o card
 
 ## Como Colaborar
 Para contribuir com este projeto:
