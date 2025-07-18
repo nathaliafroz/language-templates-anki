@@ -9,9 +9,9 @@ Queremos transformar este projeto de templates de cards para Anki na tematica ap
 - Implementar detecção automática das preferências do sistema do usuário
 - Garantir que todas as cores do card se adaptem dinamicamente ao tema selecionado
 
-### 2. Desenvolver campo de anotações (Desafio Técnico)
-- campo para fazer anotações sobre alguma informação a mais sobre o que esta sendo estudado
-- sera mostrado apenas após a o usuario responder o card
+### 2. Desenvolver campo de anotações
+- Campo para fazer anotações sobre alguma informação a mais sobre o que esta sendo estudado
+- Sera mostrado apenas após o usuário responder o card
 
 ### 3. Traduzir a documentação para PT-BR
 Queremos que vocês façam o Anki atingir ainda mais pessoas, consequentemente aumentando sua comunidade. Para isso, o desafio é continuar a tradução da documentação do Anki disponível em: <https://mizerablebr.github.io/anki-manual/#/>. Atualmente o último arquivo traduzido é o de substituição de campos, nosso objetivo é traduzir ao menos mais um arquivo. Envie sua contribuição para os mantenedores originais da documentação em português no repositório <https://github.com/mizerablebr/anki-manual> e marquem a gente (@hevellynb e @nathaliafroz).
