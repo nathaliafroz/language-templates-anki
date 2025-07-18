@@ -21,3 +21,5 @@ Nossa equipe enfrentou altos e baixos durante a disciplina, até restarem apenas
 Em caso de dúvidas, acessem os canais oficiais do Anki ou entrem em contato conosco. Ficaremos felizes em ajudar vocês nessa jornada de melhoria do projeto.
 
 ---
+## Assinado por:
+Nathália Fróz & Hevellyn Barros
