@@ -17,8 +17,8 @@ Queremos transformar este projeto de templates de cards para Anki na tematica ap
 - Continuar a tradução da documentação do Anki disponível em: <https://mizerablebr.github.io/anki-manual/#/>. Atualmente o último arquivo traduzido é o de substituição de campos, nosso objetivo é traduzir ao menos mais um arquivo. Envie sua contribuição para os mantenedores originais da documentação em português no repositório <https://github.com/mizerablebr/anki-manual> e marquem a gente (@hevellynb e @nathaliafroz).
 
 ### 4. Espalhem a palavra
-Queremos que vocês façam o Anki atingir ainda mais pessoas, consequentemente aumentando sua comunidade.
-- Divulguem o Anki para mais pessoas.
+- Queremos que vocês façam o Anki atingir ainda mais pessoas, consequentemente aumentando sua comunidade. Divulguem o Anki.
+
 
 
 ## Como Colaborar
