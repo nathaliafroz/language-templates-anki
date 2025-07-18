@@ -1,6 +1,5 @@
 # Carta de Legado 💌
 
----
 Queridos futuros colaboradores,
 
 Sejam bem-vindos! Somos da equipe que desenvolveu a contribuição para o Anki em 2025-1.
