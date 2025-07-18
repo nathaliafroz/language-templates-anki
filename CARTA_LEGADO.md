@@ -1,8 +1,8 @@
 # Carta de Legado 💌
 
 ---
-
-Olá, sejam bem-vindos! Somos da equipe que contribuiu para o desenvolvimento da contribuição do Anki em 2025-1.
+Queridos futuros colaboradores,
+Sejam bem-vindos! Somos da equipe que desenvolveu a contribuição para o Anki em 2025-1.
 
 ## Sobre a Experiência
 
@@ -14,7 +14,7 @@ Nossa equipe enfrentou altos e baixos durante a disciplina, até restarem apenas
 
 - **Não tenham medo de tirar dúvidas:** Usem o fórum do Anki e abram issues no GitHub. A comunidade é acolhedora e sempre busca novos contribuidores.
 - **Evitem deixar tudo para a última hora:** As tarefas de contribuição costumam ser extensas. Dividam o trabalho semanalmente para evitar preocupações na semana final e garantir tempo para revisões e ajustes.
-- **Planejem bem** o que sera preciso para montar o projeto mantenha uma comunicação constante e um controle para saber como anda o processo.
+- **Planejem bem:** Saiba o que sera preciso para montar o projeto e quebre em pequenas tarefas, mantenha uma comunicação constante e um controle para saber como anda o processo.
 
 ## Canais de Apoio
 
