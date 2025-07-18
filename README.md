@@ -21,6 +21,7 @@ Queremos que vocês façam o Anki atingir ainda mais pessoas, consequentemente a
 Para contribuir com este projeto:
 1. Crie um fork deste repositório
 2. Desenvolva sua contribuição em uma nova branch
-3. Envie um Pull Request descrevendo suas alterações
-4. Marque os mantenedores @[SeuUsername] para revisão
+3. Crie uma pasta com o nome do seu projeto
+4. Envie um Pull Request descrevendo suas alterações
+5. Marque os mantenedores @[SeuUsername] para revisão
 
